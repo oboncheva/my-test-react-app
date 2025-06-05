@@ -32,7 +32,7 @@ export default function Home() {
               variant="outlined"
               size="large"
               startIcon={<AddIcon />}
-              onClick={() => alert('Add something!')}
+              onClick={() => alert('Button clicked!')}
             >
               Add Item
             </Button>
